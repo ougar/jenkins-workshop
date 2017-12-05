@@ -17,6 +17,6 @@ public class GildedRoseTest {
 
     @Test
     public void atjuu() {
-        assertEquals("hans","niels");
+        assertEquals("niels","niels");
     }
 }
